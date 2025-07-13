@@ -54,6 +54,70 @@
 </p>
 
 ---
+---
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  제가 다루는 기술은 아래와 같습니다.<br/>
+  각 영역의 핵심 도구를 선택적으로 학습하고, 실무에 적용해 왔습니다.
+</p>
+
+---
+
+<!-- 🧠 언어 -->
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<!-- 🗃️ 데이터베이스 -->
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<!-- 🤖 AI & Computer Vision -->
+<h3 align="center">🧠 AI / ML / CV</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<!-- 🧰 툴 & GUI -->
+<h3 align="center">🛠️ Tools & GUI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MFC-00599C?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<!-- 🔌 백엔드 연동 -->
+<h3 align="center">🌐 Backend & API</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+<!-- 📡 임베디드 & 하드웨어 -->
+<h3 align="center">🔋 Embedded & Hardware</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 <!-- 하단 마무리 배너 -->
 <p align="center">
