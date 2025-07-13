@@ -1,6 +1,11 @@
-<!-- 상단 타자 효과 -->
+<!-- 🎉 상단 인사 배너 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=안녕하세요,+김상엽입니다!;AI+%2B+Sensor+%2B+Data+Engineer;Always+Learning,+Always+Creating" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=김상엽입니다!%20반갑습니다👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ⌨️ 타자 효과 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=800&color=00C9A7&center=true&vCenter=true&width=460&lines=AI+%2B+Sensor+%2B+Data+Engineer;기록하며+성장하는+실험형+개발자입니다." />
 </p>
 
 <!-- 소개 카드 -->
