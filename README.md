@@ -1,31 +1,14 @@
-# 🧑‍💻 [당신의 이름 or 닉네임]의 GitHub Profile
+<!-- 소개 영역 -->
+<h1 align="center">👋 안녕하세요, 김상엽입니다!</h1>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[당신의GitHubID]&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<p align="center">
+  AI 기반 헬스케어와 센서 기술에 관심 많은 개발자입니다.<br/>
+  데이터를 통해 세상을 더 안전하고 편리하게 만드는 것을 꿈꿉니다.<br/>
+  실험하고 구조를 설계하며 기록하는 과정을 즐깁니다. 💡
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[당신의GitHubID]&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=[당신의백준ID])](https://solved.ac/[당신의백준ID]/)
-
----
-
-# 💪 Skills
-
-### 🚀 Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
----
-
-# 📫 Contacts
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=github&link=https://yourblog.com/)](https://yourblog.com/)
-
-
+<p align="center">
+  🌐 <a href="https://your-github-id.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Page-Portfolio-121013?style=flat-square&logo=github&logoColor=white"/></a>
+  ✉️ <a href="mailto:kimsangyeop@email.com"><img src="https://img.shields.io/badge/Gmail-kimsangyeop@email.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  📓 <a href="https://your-blog.com" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-Click!-000000?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
