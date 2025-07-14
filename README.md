@@ -5,7 +5,7 @@
 
 <!-- ⌨️ 타자 효과 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=520&lines=AI+%2B+센서+%2B+데이터+융합+개발자;기록하고+실험하며+성장하는+개발자🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=520&lines=임베디드+%2F+신호처리+%2F+비전+SW+개발자;기록하고+실험하며+성장하는+개발자🚀" />
 </p>
 
 ---
@@ -16,14 +16,15 @@
 <td width="50%">
 
 ### 💡 About Me
-**AI 기반 헬스케어와 센서 융합 기술**을 다루는 개발자입니다.  
-데이터 분석과 디바이스 연결을 통해 실질적인 기술 솔루션을 만들어갑니다. 🛠️
+**임베디드 시스템과 비전 기반 데이터 처리를 통해 실제 문제를 해결해 온 개발자입니다.**  
+Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 기반 낙상 분석 시스템**을 직접 설계하고 구현한 경험이 있으며,  
+**센서 연동·실시간 신호처리·비전 기반 인식** 기술을 통합하는 프로젝트를 수행해 왔습니다.
 
 **주요 관심사:**
-- Computer Vision & AI
-- Embedded Systems
-- Real-time Data Processing
-- Healthcare Technology
+- Embedded Systems & Firmware (Raspberry Pi, C/C++, Linux)
+- Signal Processing & Real-time Sensor Data Analysis
+- Computer Vision & SLAM (ORB-SLAM, OpenCV)
+- 시스템 소프트웨어와 하드웨어 간 통합 설계
 
 </td>
 <td width="50%">
@@ -41,9 +42,10 @@
 
 **Role Keywords:**
 <p>
-<img src="https://img.shields.io/badge/AI%20Engineer-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sensor%20Developer-10B981?style=flat&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20SW-009688?style=flat&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Signal%20Processing-7C3AED?style=flat&logo=matlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Software-2563EB?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat&logo=opencv&logoColor=white"/>
 </p>
 
 </td>
