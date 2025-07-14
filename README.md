@@ -211,7 +211,7 @@ IMU 센서 시계열 데이터로 보폭, 지지시간 등 보행 지표를 추�
 연구실에서 학습한 머신러닝, 컴퓨터 비전, 신호처리 관련 이론과 실습을 정리한 자료  
 Jupyter Notebook 형태로 개념 정리부터 실제 구현까지 체계적으로 학습
 
-🔗 **[Repository](https://github.com/your-id/research-study-materials)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/Computer_Vision_Lab.git)**
 
 </div>
 
