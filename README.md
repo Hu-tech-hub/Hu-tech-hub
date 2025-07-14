@@ -251,7 +251,7 @@ Windows MFC를 활용한 GUI 도구 개발 학습 과정과 실습 예제들
 알고리즘 문제 해결 과정과 핵심 개념 정리  
 백준, 프로그래머스 등에서 해결한 문제들과 풀이 과정, 최적화 방법 학습
 
-🔗 **[Repository](https://github.com/your-id/coding-test-practice)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/Coding_Test_Python.git)**
 
 </div>
 
