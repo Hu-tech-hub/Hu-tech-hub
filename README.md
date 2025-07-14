@@ -65,8 +65,18 @@ Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 
 
 ---
 
+<br/>
+
 <!-- ⚙️ Tech Stack -->
+<div align="center">
+  <img src="https://img.shields.io/badge/⚙️-TECH%20STACK-9B59B6?style=for-the-badge&logoColor=white"/>
+</div>
+
+<br/>
+
 <h2 align="center">⚙️ Tech Stack</h2>
+
+<br/>
 
 <div align="center">
 
@@ -102,9 +112,17 @@ Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 
 
 ---
 
+<br/>
+
 <!-- 🚀 Featured Projects -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀-FEATURED%20PROJECTS-FF6B6B?style=for-the-badge&logoColor=white"/>
+</div>
+
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">실제 문제 해결을 목표로 기획하고 구현한 주요 프로젝트들입니다.</p>
+
+<br/>
 
 <!-- 프로젝트 1 -->
 <div align="center">
@@ -166,6 +184,82 @@ IMU 센서 시계열 데이터로 보폭, 지지시간 등 보행 지표를 추�
 </div>
 
 ---
+
+<br/>
+
+<!-- 📚 Study & Practice -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📚-STUDY%20%26%20PRACTICE-4ECDC4?style=for-the-badge&logoColor=white"/>
+</div>
+
+<h2 align="center">📚 Study & Practice</h2>
+<p align="center">지속적인 학습과 실습을 통해 축적한 자료들입니다.</p>
+
+<br/>
+
+<!-- 학습 자료 1 -->
+<div align="center">
+
+### 🔬 연구실 공부 자료 모음
+
+<p>
+  <img src="https://img.shields.io/badge/Format-Jupyter%20Notebook-orange?style=flat-square&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Topics-ML%2FCV%2FSignal-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-green?style=flat-square&logo=python"/>
+</p>
+
+연구실에서 학습한 머신러닝, 컴퓨터 비전, 신호처리 관련 이론과 실습을 정리한 자료  
+Jupyter Notebook 형태로 개념 정리부터 실제 구현까지 체계적으로 학습
+
+🔗 **[Repository](https://github.com/your-id/research-study-materials)**
+
+</div>
+
+---
+
+<!-- 학습 자료 2 -->
+<div align="center">
+
+### 🖥️ MFC 툴 개발 학습 자료
+
+<p>
+  <img src="https://img.shields.io/badge/Framework-MFC-blue?style=flat-square&logo=windows"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Type-GUI%20Tools-purple?style=flat-square"/>
+</p>
+
+Windows MFC를 활용한 GUI 도구 개발 학습 과정과 실습 예제들  
+다이얼로그, 컨트롤, 이벤트 처리 등 MFC 핵심 기능들을 다룬 학습 자료
+
+🔗 **[Repository](https://github.com/your-id/mfc-study-tools)**
+
+</div>
+
+---
+
+<!-- 학습 자료 3 -->
+<div align="center">
+
+### 💻 코딩테스트 학습 자료
+
+<p>
+  <img src="https://img.shields.io/badge/Platform-백준%2F프로그래머스-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python%2FC++-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Topics-알고리즘%2F자료구조-red?style=flat-square"/>
+</p>
+
+알고리즘 문제 해결 과정과 핵심 개념 정리  
+백준, 프로그래머스 등에서 해결한 문제들과 풀이 과정, 최적화 방법 학습
+
+🔗 **[Repository](https://github.com/your-id/coding-test-practice)**
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <!-- 하단 마무리 배너 -->
 <p align="center">
