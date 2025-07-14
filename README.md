@@ -127,19 +127,22 @@ Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 
 <!-- 프로젝트 1 -->
 <div align="center">
 
-### 🦿 AI 기반 낙상 방지 및 보행 분석 시스템
+### 🦿 WalkerHolic - AI 기반 낙상 방지 및 보행 분석 시스템
 
 <p>
-  <img src="https://img.shields.io/badge/센서+AI-IMU+RGB-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/파이프라인-데이터%2B모델%2BRAG-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/진단-Chronos%2BLangChain-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DB-MongoDB-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/시스템-Full%20Stack-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/백엔드-FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/AI-보행분석%2B낙상예측-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/서버-통합시스템-green?style=flat-square"/>
 </p>
 
-노인의 보행 패턴을 실시간 분석하여 낙상 위험을 예측하는 통합 시스템  
-데이터 수집→전처리→라벨링 자동화, 보폭 추론 모델, RAG 기반 진단 챗봇까지 엔드투엔드 구현
+노인의 보행 패턴 실시간 분석 및 낙상 위험 예측을 위한 **완전한 통합 시스템**  
+백엔드 서버, AI 모델, 데이터 파이프라인이 모두 통합된 최종 배포 버전
 
-🔗 **[보폭 추론 모델](https://github.com/Hu-tech-hub/Stride_Length_Estimation_Model)** | **[데이터 파이프라인](https://github.com/Hu-tech-hub/make_gait_data)** | **[RAG 챗봇](https://github.com/Hu-tech-hub/Chatbot)** | **[센서 진단](https://github.com/Hu-tech-hub/gait-analyzer-chronos-langchain)**
+🔗 **[🏆 Main System - WalkerHolic](https://github.com/Hu-tech-hub/WalkerHolic)**
+
+**📦 세부 모듈들:**  
+**[보폭 추론 모델](https://github.com/Hu-tech-hub/Stride_Length_Estimation_Model)** | **[데이터 파이프라인](https://github.com/Hu-tech-hub/make_gait_data)** | **[RAG 챗봇](https://github.com/Hu-tech-hub/Chatbot)** | **[센서 진단](https://github.com/Hu-tech-hub/gait-analyzer-chronos-langchain)**
 
 </div>
 
