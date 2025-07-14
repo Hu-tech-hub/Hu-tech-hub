@@ -34,16 +34,16 @@ Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 
 <h3>📬 Contact & Links</h3>
 
 <p>
-<a href="mailto:kimsangyeop@email.com">
+<a href="mailto:kimsangyeop@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <br/>
-<a href="https://your-github-id.github.io">
+<a href="https://hu-tech-hub.github.io">
   <img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <br/>
-<a href="https://your-blog.com">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+<a href="https://github.com/Hu-tech-hub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -131,15 +131,15 @@ Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 
 
 <p>
   <img src="https://img.shields.io/badge/센서+AI-IMU+RGB-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GUI-PyQt-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/모델-TCN-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/API-FastAPI-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/파이프라인-데이터%2B모델%2BRAG-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/진단-Chronos%2BLangChain-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DB-MongoDB-yellow?style=flat-square"/>
 </p>
 
-노인의 보행 패턴을 실시간 분석하여 낙상 위험을 예측하는 시스템  
-IMU + 카메라 데이터 자동 라벨링, 보행 분류 및 보폭 예측 모델 구현
+노인의 보행 패턴을 실시간 분석하여 낙상 위험을 예측하는 통합 시스템  
+데이터 수집→전처리→라벨링 자동화, 보폭 추론 모델, RAG 기반 진단 챗봇까지 엔드투엔드 구현
 
-🔗 **[Repository](https://github.com/your-id/fall-detection-platform)**
+🔗 **[보폭 추론 모델](https://github.com/Hu-tech-hub/Stride_Length_Estimation_Model)** | **[데이터 파이프라인](https://github.com/Hu-tech-hub/make_gait_data)** | **[RAG 챗봇](https://github.com/Hu-tech-hub/Chatbot)** | **[센서 진단](https://github.com/Hu-tech-hub/gait-analyzer-chronos-langchain)**
 
 </div>
 
@@ -148,18 +148,18 @@ IMU + 카메라 데이터 자동 라벨링, 보행 분류 및 보폭 예측 모�
 <!-- 프로젝트 2 -->
 <div align="center">
 
-### 🛵 자율주행 카트 (ArUco 기반)
+### 🛵 자율주행 카트 (ArUco 마커 기반)
 
 <p>
-  <img src="https://img.shields.io/badge/모빌리티-단안카메라-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/마커인식-ArUco-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/실시간제어-C++Python-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/비전-ArUco%20마커-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/제어-실시간%20추종-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/성과-경진대회%20우수상-gold?style=flat-square"/>
 </p>
 
 ArUco 마커 기반 경로 인식 및 추종하는 자율주행 카트 시스템  
-실시간 영상처리 + 속도 제어 + 장애물 회피 통합, 학내 경진대회 우수상 수상
+실시간 영상처리 + 속도 제어 + 장애물 회피 통합, 캡스톤 디자인 프로젝트
 
-🔗 **[Repository](https://github.com/your-id/aruco-self-driving)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/ArUco_Autonomous_Car)**
 
 </div>
 
@@ -168,18 +168,18 @@ ArUco 마커 기반 경로 인식 및 추종하는 자율주행 카트 시스템
 <!-- 프로젝트 3 -->
 <div align="center">
 
-### 📏 시계열 보행 지표 예측 모델
+### 🚗 자율주행 카트 (스테레오 비전 기반)
 
 <p>
-  <img src="https://img.shields.io/badge/데이터-보행3600주기-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/모델-LSTM+TCN-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/파이프라인-LangChain-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/비전-Stereo%20Vision-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/인식-객체%20탐지-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/제어-3D%20거리%20측정-purple?style=flat-square"/>
 </p>
 
-IMU 센서 시계열 데이터로 보폭, 지지시간 등 보행 지표를 추론하는 모델  
-보행 라벨 자동생성기, 딥러닝 모델, LangChain 진단 파이프라인 통합
+스테레오 카메라를 활용한 3D 객체 인식 및 거리 측정 기반 자율주행 시스템  
+깊이 정보를 활용한 정밀한 장애물 인식과 경로 계획 알고리즘 구현
 
-🔗 **[Repository](https://github.com/your-id/gait-metrics-inference)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/detect_object_rc)**
 
 </div>
 
@@ -200,18 +200,18 @@ IMU 센서 시계열 데이터로 보폭, 지지시간 등 보행 지표를 추�
 <!-- 학습 자료 1 -->
 <div align="center">
 
-### 🔬 연구실 공부 자료 모음
+### 🔬 영상처리 연구실 미팅 자료 모음
 
 <p>
   <img src="https://img.shields.io/badge/Format-Jupyter%20Notebook-orange?style=flat-square&logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Topics-ML%2FCV%2FSignal-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Topics-Computer%20Vision-blue?style=flat-square&logo=opencv"/>
   <img src="https://img.shields.io/badge/Language-Python-green?style=flat-square&logo=python"/>
 </p>
 
-연구실에서 학습한 머신러닝, 컴퓨터 비전, 신호처리 관련 이론과 실습을 정리한 자료  
-Jupyter Notebook 형태로 개념 정리부터 실제 구현까지 체계적으로 학습
+영상처리 연구실에서 진행한 세미나 및 미팅 자료들  
+컴퓨터 비전 논문 리뷰, 실습 코드, 연구 아이디어 정리 등 체계적인 학습 기록
 
-🔗 **[Repository](https://github.com/Hu-tech-hub/Computer_Vision_Lab.git)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/Computer_Vision_Lab)**
 
 </div>
 
@@ -220,18 +220,18 @@ Jupyter Notebook 형태로 개념 정리부터 실제 구현까지 체계적으�
 <!-- 학습 자료 2 -->
 <div align="center">
 
-### 🖥️ MFC 툴 개발 학습 자료
+### 💻 코딩테스트 학습 자료
 
 <p>
-  <img src="https://img.shields.io/badge/Framework-MFC-blue?style=flat-square&logo=windows"/>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/Type-GUI%20Tools-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-백준%2F프로그래머스-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Topics-알고리즘%2F자료구조-red?style=flat-square"/>
 </p>
 
-Windows MFC를 활용한 GUI 도구 개발 학습 과정과 실습 예제들  
-다이얼로그, 컨트롤, 이벤트 처리 등 MFC 핵심 기능들을 다룬 학습 자료
+알고리즘 문제 해결 과정과 핵심 개념 정리  
+백준, 프로그래머스 등에서 해결한 문제들과 풀이 과정, 최적화 방법 학습
 
-🔗 **[Repository](https://github.com/your-id/mfc-study-tools)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/Coding_Test_Python)**
 
 </div>
 
@@ -240,18 +240,18 @@ Windows MFC를 활용한 GUI 도구 개발 학습 과정과 실습 예제들
 <!-- 학습 자료 3 -->
 <div align="center">
 
-### 💻 코딩테스트 학습 자료
+### 🌐 FastAPI 블로그 제작 실습
 
 <p>
-  <img src="https://img.shields.io/badge/Platform-백준%2F프로그래머스-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python%2FC++-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Topics-알고리즘%2F자료구조-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Type-웹%20개발%20실습-purple?style=flat-square"/>
 </p>
 
-알고리즘 문제 해결 과정과 핵심 개념 정리  
-백준, 프로그래머스 등에서 해결한 문제들과 풀이 과정, 최적화 방법 학습
+FastAPI를 활용한 블로그 웹 애플리케이션 개발 실습  
+RESTful API 설계, 데이터베이스 연동, 인증 시스템 등 백엔드 개발 학습
 
-🔗 **[Repository](https://github.com/Hu-tech-hub/Coding_Test_Python.git)**
+🔗 **[Repository](https://github.com/Hu-tech-hub/Fast_API)**
 
 </div>
 
