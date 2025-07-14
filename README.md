@@ -9,48 +9,57 @@
 </p>
 
 ---
-
 <!-- 💡 소개 & 연락처 통합 -->
-<table align="center">
-<tr>
-<td width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <td width="45%" align="center">
 
-### 💡 About Me
-**임베디드 시스템과 비전 기반 데이터 처리를 통해 실제 문제를 해결해 온 개발자입니다.**  
-Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 기반 낙상 분석 시스템**을 직접 설계하고 구현한 경험이 있으며,  
-**센서 연동·실시간 신호처리·비전 기반 인식** 기술을 통합하는 프로젝트를 수행해 왔습니다.
+        <h3>💡 About Me</h3>
+        <p align="left">
+        <strong>임베디드 시스템과 비전 기반 데이터 처리를 통해 실제 문제를 해결해 온 개발자입니다.</strong><br>
+        Linux 환경의 라즈베리파이를 활용해 <strong>자율주행 차량과 신호 기반 낙상 분석 시스템</strong>을 직접 설계하고 구현한 경험이 있으며,<br>
+        <strong>센서 연동·실시간 신호처리·비전 기반 인식</strong> 기술을 통합하는 프로젝트를 수행해 왔습니다.
+        </p>
 
-**주요 관심사:**
-- Embedded Systems & Firmware (Raspberry Pi, C/C++, Linux)
-- Signal Processing & Real-time Sensor Data Analysis
-- Computer Vision & SLAM (ORB-SLAM, OpenCV)
-- 시스템 소프트웨어와 하드웨어 간 통합 설계
+        <p align="left">
+        <strong>주요 관심사:</strong><br>
+        - Embedded Systems & Firmware (Raspberry Pi, C/C++, Linux)<br>
+        - Signal Processing & Real-time Sensor Data Analysis<br>
+        - Computer Vision & SLAM (ORB-SLAM, OpenCV)<br>
+        - 시스템 소프트웨어와 하드웨어 간 통합 설계
+        </p>
 
-</td>
-<td width="50%">
+      </td>
 
-### 📬 Contact & Links
-<a href="mailto:kimsangyeop@email.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://your-github-id.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://your-blog.com">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
+      <td width="10%"></td>
 
-**Role Keywords:**
-<p>
-<img src="https://img.shields.io/badge/Embedded%20SW-009688?style=flat&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Signal%20Processing-7C3AED?style=flat&logo=matlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Software-2563EB?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat&logo=opencv&logoColor=white"/>
-</p>
+      <td width="45%" align="center">
 
-</td>
-</tr>
-</table>
+        <h3>📬 Contact & Links</h3>
+        <a href="mailto:kimsangyeop@email.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="https://your-github-id.github.io">
+          <img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://your-blog.com">
+          <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+        </a>
+
+        <br><br>
+        <strong>Role Keywords:</strong>
+        <p>
+          <img src="https://img.shields.io/badge/Embedded%20SW-009688?style=flat&logo=raspberrypi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Signal%20Processing-7C3AED?style=flat&logo=matlab&logoColor=white"/>
+          <img src="https://img.shields.io/badge/System%20Software-2563EB?style=flat&logo=linux&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat&logo=opencv&logoColor=white"/>
+        </p>
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
