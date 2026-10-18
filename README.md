@@ -1,270 +1,92 @@
-<!-- 🟦 상단 인사 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=180&section=header&text=김상엽입니다!%20반갑습니다%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<!-- ⌨️ 타자 효과 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=580&lines=임베디드+%2F+신호처리+%2F+비전+SW+개발자;기록하고+실험하며+성장하는+개발자🚀" />
-</p>
+# Sangyeob Kim
 
----
+영상과 센서 데이터를 다루고 소프트웨어와 장치를 연결합니다.
 
-<!-- 💡 소개 & 연락처 통합 -->
-<table align="center" width="100%">
+[Blog](https://yeobi0106.tistory.com/) · [GitHub](https://github.com/Hu-tech-hub)
+
+**Python · C++ · C#**
+
+</div>
+
+## Projects
+
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
-
-<h3>💡 About Me</h3>
-
-**임베디드 시스템과 비전 기반 데이터 처리를 통해**  
-**실제 문제를 해결해 온 개발자입니다.**
-
-Linux 환경의 라즈베리파이를 활용해 **자율주행 차량과 신호 기반 낙상 분석 시스템**을 직접 설계하고 구현한 경험이 있으며, **센서 연동·실시간 신호처리·비전 기반 인식** 기술을 통합하는 프로젝트를 수행해 왔습니다.
-
-**🎯 주요 관심사:**
-- Embedded Systems & Firmware  
-- Signal Processing & Real-time Analysis  
-- Computer Vision & SLAM  
-- 시스템 SW와 HW 간 통합 설계  
-
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Hu-tech-hub/WalkerHolic">BODYFENCE</a></h3>
+<p><strong>[BODYFENCE GIF]</strong></p>
+<p>IMU 센서 기반 보행 분석과 낙상 감지를 제공하는 웨어러블 플랫폼</p>
+<p><sub>Python · OpenCV · PyTorch · Raspberry Pi<br>디지털 스마트 아카데미 부산 · 팀 프로젝트</sub></p>
 </td>
-<td width="50%" align="center" valign="top">
-
-<h3>📬 Contact & Links</h3>
-
-<p>
-<a href="mailto:kimsangyeop@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<br/>
-<a href="https://hu-tech-hub.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<br/>
-<a href="https://github.com/Hu-tech-hub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
-
-**🏷️ Role Keywords:**
-
-<p>
-<img src="https://img.shields.io/badge/Embedded%20SW-009688?style=flat&logo=raspberrypi&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Signal%20Processing-7C3AED?style=flat&logo=matlab&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/System%20Software-2563EB?style=flat&logo=linux&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat&logo=opencv&logoColor=white"/>
-</p>
-
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Hu-tech-hub/PLC_VirtualFactory">PLC Virtual Factory</a></h3>
+<p><strong>[PLC Virtual Factory GIF]</strong></p>
+<p>PLC와 Unity를 연결한 가상 검사 자동화 설비</p>
+<p><sub>C# · Unity · GX Works3 · MX Component<br>개인 프로젝트</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Hu-tech-hub/ArUco_Autonomous_Car">ArUco Autonomous Cart</a></h3>
+<p><strong>[ArUco Autonomous Cart GIF]</strong></p>
+<p>카메라와 ArUco 마커로 위치를 추정하고 주행을 제어하는 자율주행 카트</p>
+<p><sub>C++ · OpenCV · Raspberry Pi<br>캡스톤 디자인 · 팀 프로젝트</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Hu-tech-hub/Computer_Vision_Lab">Computer Vision Lab</a></h3>
+<p><strong>[영상처리 연구실 GIF]</strong></p>
+<p>영상 필터링과 특징점 검출부터 카메라 캘리브레이션까지 정리한 학습·랩미팅 자료</p>
+<p><sub>Python · OpenCV · NumPy · Jupyter Notebook<br>영상처리 연구실</sub></p>
 </td>
 </tr>
 </table>
 
----
+## Naver Boostcamp Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/seolbb/Re-View">Re:View</a></h3>
+<p><strong>[Re:View GIF]</strong></p>
+<p>강의 화면과 음성을 함께 분석하는 AI 강의 노트 서비스</p>
+<p><sub>Python · OpenCV · FastAPI · LangGraph</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/seung23/PAZULE">PAZULE</a></h3>
+<p><strong>[PAZULE GIF]</strong></p>
+<p>사진으로 파주 지역 명소를 찾아가는 AI 미션 게임</p>
+<p><sub>Python · BLIP-VQA · CLIP</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-02">Object Detection</a></h3>
+<p><strong>[Object Detection GIF]</strong></p>
+<p>이미지 속 10개 재활용 품목의 종류와 위치를 탐지하는 프로젝트</p>
+<p><sub>Python · PyTorch · MMDetection · YOLO</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-02">Semantic Segmentation</a></h3>
+<p><strong>[Semantic Segmentation GIF]</strong></p>
+<p>손 X-ray 이미지에서 29개 뼈 영역을 픽셀 단위로 분할하는 프로젝트</p>
+<p><sub>Python · PyTorch · SMP · MMSegmentation</sub></p>
+</td>
+</tr>
+</table>
+
+## Tech
+
+| | Technologies |
+| :--- | :--- |
+| Languages | Python · C++ · C# |
+| Vision & AI | OpenCV · MediaPipe · PyTorch · TensorFlow |
+| Backend | FastAPI · LangGraph |
+| Device & Simulation | Raspberry Pi · Unity · GX Works3 |
+| Tools | Git · GitHub · Docker · Linux |
+
+## Study
+
+[알고리즘 풀이](https://github.com/Hu-tech-hub/Coding_Test_Python) · [FastAPI 실습](https://github.com/Hu-tech-hub/Fast_API) · [기술 블로그](https://yeobi0106.tistory.com/)
 
-<br/>
-
-<!-- ⚙️ Tech Stack -->
-<div align="center">
-  <img src="https://img.shields.io/badge/⚙️-TECH%20STACK-9B59B6?style=for-the-badge&logoColor=white"/>
-</div>
-
-<br/>
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<br/>
-
-<div align="center">
-
-**💻 Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**🧠 AI / ML / CV**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-**🌐 Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-**🔋 Hardware & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-<br/>
-
-<!-- 🚀 Featured Projects -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-FEATURED%20PROJECTS-FF6B6B?style=for-the-badge&logoColor=white"/>
-</div>
-
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">실제 문제 해결을 목표로 기획하고 구현한 주요 프로젝트들입니다.</p>
-
-<br/>
-
-<!-- 프로젝트 1 -->
-<div align="center">
-
-### 🦿 WalkerHolic - AI 기반 낙상 방지 및 보행 분석 시스템
-
-<p>
-  <img src="https://img.shields.io/badge/시스템-Full%20Stack-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/백엔드-FastAPI-009688?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/AI-보행분석%2B낙상예측-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/서버-통합시스템-green?style=flat-square"/>
-</p>
-
-노인의 보행 패턴 실시간 분석 및 낙상 위험 예측을 위한 **완전한 통합 시스템**  
-백엔드 서버, AI 모델, 데이터 파이프라인이 모두 통합된 최종 배포 버전
-
-🔗 **[🏆 Main System - WalkerHolic](https://github.com/Hu-tech-hub/WalkerHolic)**
-
-**📦 세부 모듈들:**  
-**[보폭 추론 모델](https://github.com/Hu-tech-hub/Stride_Length_Estimation_Model)** | **[데이터 파이프라인](https://github.com/Hu-tech-hub/make_gait_data)** | **[RAG 챗봇](https://github.com/Hu-tech-hub/Chatbot)** | **[센서 진단](https://github.com/Hu-tech-hub/gait-analyzer-chronos-langchain)**
-
-</div>
-
----
-
-<!-- 프로젝트 2 -->
-<div align="center">
-
-### 🛵 자율주행 카트 (ArUco 마커 기반)
-
-<p>
-  <img src="https://img.shields.io/badge/비전-ArUco%20마커-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/제어-실시간%20추종-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/성과-경진대회%20우수상-gold?style=flat-square"/>
-</p>
-
-ArUco 마커 기반 경로 인식 및 추종하는 자율주행 카트 시스템  
-실시간 영상처리 + 속도 제어 + 장애물 회피 통합, 캡스톤 디자인 프로젝트
-
-🔗 **[Repository](https://github.com/Hu-tech-hub/ArUco_Autonomous_Car)**
-
-</div>
-
----
-
-<!-- 프로젝트 3 -->
-<div align="center">
-
-### 🚗 자율주행 카트 (스테레오 비전 기반)
-
-<p>
-  <img src="https://img.shields.io/badge/비전-Stereo%20Vision-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/인식-객체%20탐지-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/제어-3D%20거리%20측정-purple?style=flat-square"/>
-</p>
-
-스테레오 카메라를 활용한 3D 객체 인식 및 거리 측정 기반 자율주행 시스템  
-깊이 정보를 활용한 정밀한 장애물 인식과 경로 계획 알고리즘 구현
-
-🔗 **[Repository](https://github.com/Hu-tech-hub/detect_object_rc)**
-
-</div>
-
----
-
-<br/>
-
-<!-- 📚 Study & Practice -->
-<div align="center">
-  <img src="https://img.shields.io/badge/📚-STUDY%20%26%20PRACTICE-4ECDC4?style=for-the-badge&logoColor=white"/>
-</div>
-
-<h2 align="center">📚 Study & Practice</h2>
-<p align="center">지속적인 학습과 실습을 통해 축적한 자료들입니다.</p>
-
-<br/>
-
-<!-- 학습 자료 1 -->
-<div align="center">
-
-### 🔬 영상처리 연구실 미팅 자료 모음
-
-<p>
-  <img src="https://img.shields.io/badge/Format-Jupyter%20Notebook-orange?style=flat-square&logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Topics-Computer%20Vision-blue?style=flat-square&logo=opencv"/>
-  <img src="https://img.shields.io/badge/Language-Python-green?style=flat-square&logo=python"/>
-</p>
-
-영상처리 연구실에서 진행한 세미나 및 미팅 자료들  
-컴퓨터 비전 논문 리뷰, 실습 코드, 연구 아이디어 정리 등 체계적인 학습 기록
-
-🔗 **[Repository](https://github.com/Hu-tech-hub/Computer_Vision_Lab)**
-
-</div>
-
----
-
-<!-- 학습 자료 2 -->
-<div align="center">
-
-### 💻 코딩테스트 학습 자료
-
-<p>
-  <img src="https://img.shields.io/badge/Platform-백준%2F프로그래머스-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Topics-알고리즘%2F자료구조-red?style=flat-square"/>
-</p>
-
-알고리즘 문제 해결 과정과 핵심 개념 정리  
-백준, 프로그래머스 등에서 해결한 문제들과 풀이 과정, 최적화 방법 학습
-
-🔗 **[Repository](https://github.com/Hu-tech-hub/Coding_Test_Python)**
-
-</div>
-
----
-
-<!-- 학습 자료 3 -->
-<div align="center">
-
-### 🌐 FastAPI 블로그 제작 실습
-
-<p>
-  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Type-웹%20개발%20실습-purple?style=flat-square"/>
-</p>
-
-FastAPI를 활용한 블로그 웹 애플리케이션 개발 실습  
-RESTful API 설계, 데이터베이스 연동, 인증 시스템 등 백엔드 개발 학습
-
-🔗 **[Repository](https://github.com/Hu-tech-hub/Fast_API)**
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- 하단 마무리 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:36BCF7&height=100&section=footer"/>
-</p>
