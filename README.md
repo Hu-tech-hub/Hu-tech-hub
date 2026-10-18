@@ -25,7 +25,7 @@ Project grouping and descriptions are specific to Hu-tech-hub. -->
 ## 🦿 BODYFENCE
 **디지털 스마트 아카데미 부산 · 팀 프로젝트**
 
-<table width="100%"><tr><td align="center"><br /><br /><strong>[BODYFENCE GIF]</strong><br /><br /><br /></td></tr></table>
+<p align="center"><a href="https://github.com/Hu-tech-hub/WalkerHolic"><img width="800" alt="BODYFENCE 프로젝트 포스터" src="https://raw.githubusercontent.com/Hu-tech-hub/WalkerHolic/HEAD/images/001.png" /></a></p>
 
 IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 
@@ -71,7 +71,7 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 ## 🚗 ArUco Autonomous Cart
 **캡스톤 디자인 · 팀 프로젝트**
 
-<table width="100%"><tr><td align="center"><br /><br /><strong>[ArUco GIF]</strong><br /><br /><br /></td></tr></table>
+<p align="center"><a href="https://github.com/Hu-tech-hub/ArUco_Autonomous_Car/blob/main/docs/media/drive.mp4"><img width="800" alt="ArUco 카트 주행 시연" src="https://raw.githubusercontent.com/Hu-tech-hub/ArUco_Autonomous_Car/HEAD/docs/media/drive.gif" /></a></p>
 
 천장의 ChArUco Diamond 마커로 위치와 방향을 추정하고 주행을 제어하는 자율주행 카트
 
@@ -92,7 +92,7 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 <tr>
 <td width="50%" valign="top">
 <h3>Re:View</h3>
-<p align="center"><br /><br /><strong>[Re:View GIF]</strong><br /><br /><br /></p>
+<p align="center"><a href="https://github.com/seolbbb/Re-View"><img width="400" alt="Re:View 프로젝트 소개" src="https://github.com/user-attachments/assets/bb4a8ae7-8f00-4b53-a9c9-441211d15f67" /></a></p>
 <p>강의 화면과 음성을 함께 분석하는 AI 강의 노트</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
@@ -104,7 +104,7 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 </td>
 <td width="50%" valign="top">
 <h3>PAZULE</h3>
-<p align="center"><br /><br /><strong>[PAZULE GIF]</strong><br /><br /><br /></p>
+<p align="center"><a href="https://youtu.be/nwvFlsWx7yI"><img width="400" alt="PAZULE 프로젝트 소개" src="https://github.com/user-attachments/assets/5edd3770-039e-4b55-8972-b248cb40f04b" /></a></p>
 <p>사진으로 파주 출판단지의 명소를 찾아가는 AI 미션 게임</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
@@ -117,7 +117,7 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 <tr>
 <td width="50%" valign="top">
 <h3>Object Detection</h3>
-<p align="center"><br /><br /><strong>[Object Detection GIF]</strong><br /><br /><br /></p>
+<p align="center"><a href="https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-02"><img width="400" alt="재활용 품목 객체 탐지 프로젝트 소개" src="https://raw.githubusercontent.com/boostcampaitech8/pro-cv-objectdetection-cv-02/HEAD/assets/introduce.png" /></a></p>
 <p>10개 재활용 품목의 종류와 위치를 탐지하는 프로젝트</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
@@ -147,7 +147,7 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 ## ⚙️ PLC Virtual Factory
 **개인 프로젝트 · 가상 검사 자동화**
 
-<table width="100%"><tr><td align="center"><br /><br /><strong>[PLC Virtual Factory GIF]</strong><br /><br /><br /></td></tr></table>
+<p align="center"><a href="https://github.com/Hu-tech-hub/PLC_VirtualFactory#unity-가상-설비-및-공정-시연"><img width="800" alt="PLC 가상 검사설비 OK·NG 분기 배출" src="https://raw.githubusercontent.com/Hu-tech-hub/PLC_VirtualFactory/HEAD/docs/demos/04-ok-ng-discharge.gif" /></a></p>
 
 PLC 시퀀스와 GOT 화면 및 Unity 가상설비를 연결한 검사 자동화 시뮬레이션
 
