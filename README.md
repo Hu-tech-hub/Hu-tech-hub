@@ -93,8 +93,8 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 <tr>
 <td width="50%" valign="top">
 <h3>Re:View</h3>
-<p align="center"><a href="https://github.com/seolbbb/Re-View"><img width="400" alt="Re:View 프로젝트 소개" src="https://github.com/user-attachments/assets/bb4a8ae7-8f00-4b53-a9c9-441211d15f67" /></a></p>
-<p>강의 화면과 음성을 함께 분석하는 AI 강의 노트</p>
+<p align="center"><a href="https://github.com/seolbbb/Re-View"><img width="400" height="225" alt="Re:View 서비스 시연" src="./assets/profile/review-preview.gif" /></a></p>
+<p>강의 화면과 음성을 함께 분석하는<br />AI 강의 노트</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" />
@@ -105,8 +105,8 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 </td>
 <td width="50%" valign="top">
 <h3>PAZULE</h3>
-<p align="center"><a href="https://youtu.be/nwvFlsWx7yI"><img width="400" alt="PAZULE 프로젝트 소개" src="https://github.com/user-attachments/assets/5edd3770-039e-4b55-8972-b248cb40f04b" /></a></p>
-<p>사진으로 파주 출판단지의 명소를 찾아가는 AI 미션 게임</p>
+<p align="center"><a href="https://youtu.be/nwvFlsWx7yI"><img width="400" height="225" alt="PAZULE 미션·힌트·성공 시연" src="./assets/profile/pazule-demo.gif" /></a></p>
+<p>사진으로 파주 출판단지 명소를 찾는<br />AI 미션 게임</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
 <img alt="BLIP-VQA" src="https://img.shields.io/badge/BLIP--VQA-7C3AED?style=flat-square&amp;logoColor=white" />
@@ -118,8 +118,8 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 <tr>
 <td width="50%" valign="top">
 <h3>Object Detection</h3>
-<p align="center"><a href="https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-02"><img width="400" alt="재활용 품목 객체 탐지 프로젝트 소개" src="https://raw.githubusercontent.com/boostcampaitech8/pro-cv-objectdetection-cv-02/HEAD/assets/introduce.png" /></a></p>
-<p>10개 재활용 품목의 종류와 위치를 탐지하는 프로젝트</p>
+<p align="center"><a href="https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-02"><img width="400" height="225" alt="재활용 품목 객체 탐지 프로젝트 소개" src="./assets/profile/detection-preview.png" /></a></p>
+<p>10개 재활용 품목의 종류와 위치를<br />탐지하는 프로젝트</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
@@ -130,9 +130,8 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 </td>
 <td width="50%" valign="top">
 <h3>Semantic Segmentation</h3>
-<p align="center"><img width="300" alt="손 뼈 X-ray 예시 이미지" src="https://github.com/user-attachments/assets/38a94eec-738f-4642-8873-729c798d6884" /></p>
-<p align="center"><sub>손 X-ray 예시 · <a href="https://en.m.wikipedia.org/wiki/File:X-ray_of_normal_hand_by_dorsoplantar_projection.jpg">이미지 출처: Wikipedia</a></sub></p>
-<p>손 X-ray에서 29개 뼈 영역을 픽셀 단위로 분할하는 프로젝트</p>
+<p align="center"><img width="400" height="225" alt="손 뼈 X-ray 예시 이미지" src="./assets/profile/segmentation-preview.png" /></p>
+<p>손 X-ray에서 29개 뼈 영역을<br />픽셀 단위로 분할하는 프로젝트</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
@@ -143,6 +142,8 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 </td>
 </tr>
 </table>
+
+<sub>손 X-ray 예시 이미지 출처: <a href="https://en.m.wikipedia.org/wiki/File:X-ray_of_normal_hand_by_dorsoplantar_projection.jpg">Wikipedia</a></sub>
 
 <br />
 
