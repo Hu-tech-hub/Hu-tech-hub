@@ -15,19 +15,60 @@
 </p>
 
 <details open>
-<summary><h2>🚀 Projects & Research</h2></summary>
+<summary><h2>🦿 디지털 스마트 아카데미 부산 · BODYFENCE</h2></summary>
 
 <p align="left">
 <a href="https://github.com/Hu-tech-hub/WalkerHolic"><img width="400" alt="BODYFENCE — IMU 기반 보행 분석·낙상 감지" src="./assets/profile/card-01.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/PLC_VirtualFactory"><img width="400" alt="PLC Virtual Factory — PLC와 Unity를 연결한 가상 검사설비" src="./assets/profile/card-02.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/ArUco_Autonomous_Car"><img width="400" alt="ArUco Autonomous Cart — 천장 마커 기반 위치 추정·주행 제어" src="./assets/profile/card-03.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/Computer_Vision_Lab"><img width="400" alt="Computer Vision Lab — 영상처리·특징점·카메라 기하 학습 기록" src="./assets/profile/card-04.svg" /></a>
 </p>
+
+IMU 센서와 AI를 결합한 보행 분석·낙상 감지 프로젝트입니다. 아래에 관련 데이터 처리·추론·보행 이벤트·RAG 실험 및 시연 저장소를 모았습니다.
+
+<details>
+<summary>BODYFENCE · 시연</summary>
+
+[BODYFENCE GIF]
+
+</details>
+
+<details>
+<summary>BODYFENCE · 관련 모듈과 실험 저장소 펼치기</summary>
+
+<p align="left">
+<a href="https://github.com/Hu-tech-hub/make_gait_data"><img width="400" alt="make_gait_data — 영상·IMU 보행 데이터 처리와 라벨링" src="./assets/profile/card-09.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/Stride_Length_Estimation_Model"><img width="400" alt="Stride Length Estimation — TCN 보폭 추론과 GUI·CLI 실행" src="./assets/profile/card-10.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/NAKSANG"><img width="400" alt="NAKSANG — IMU 기반 보행 이벤트 감지·시각화" src="./assets/profile/card-11.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/gait-analyzer-chronos-langchain"><img width="400" alt="Gait Analyzer · Chronos — Chronos 임베딩 기반 센서 분석 RAG" src="./assets/profile/card-12.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/Chatbot"><img width="400" alt="Chatbot — MongoDB 기반 텍스트 처리·챗봇" src="./assets/profile/card-13.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/rag-system"><img width="400" alt="RAG System — 문서 검색·질의응답 파이프라인" src="./assets/profile/card-14.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/WALKerHOLIC_Video"><img width="400" alt="WALKerHOLIC Video — 프로젝트 영상과 웹 재생 페이지" src="./assets/profile/card-15.svg" /></a>
+</p>
+
+**시계열 모델 참고:** [Chronos](https://github.com/Hu-tech-hub/Chronos)
+
+</details>
 
 </details>
 
 <details open>
-<summary><h2>🌱 Naver Boostcamp AI Tech</h2></summary>
+<summary><h2>🚗 캡스톤 디자인 · 자율주행 카트</h2></summary>
+
+<p align="left">
+<a href="https://github.com/Hu-tech-hub/ArUco_Autonomous_Car"><img width="400" alt="ArUco Autonomous Cart — 천장 마커 기반 위치 추정·주행 제어" src="./assets/profile/card-03.svg" /></a>
+</p>
+
+천장의 ChArUco Diamond 마커를 인식해 위치와 방향을 추정하고 주행을 제어한 캡스톤 디자인 프로젝트입니다.
+
+<details>
+<summary>ArUco Autonomous Cart · 시연</summary>
+
+[ArUco Autonomous Cart GIF]
+
+</details>
+
+</details>
+
+<details open>
+<summary><h2>🌱 네이버 부스트캠프 AI Tech</h2></summary>
 
 <p align="left">
 <a href="https://github.com/seolbbb/Re-View"><img width="400" alt="Re:View — 화면과 음성을 연결하는 AI 강의 노트" src="./assets/profile/card-05.svg" /></a>
@@ -36,26 +77,10 @@
 <a href="https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-02"><img width="400" alt="Semantic Segmentation — 손 X-ray의 29개 뼈 영역 분할" src="./assets/profile/card-08.svg" /></a>
 </p>
 
-</details>
+**Object Detection 개인 계정 저장소:** [pro-cv-objectdetection-cv-02](https://github.com/Hu-tech-hub/pro-cv-objectdetection-cv-02)
 
 <details>
-<summary><h2>🎬 Project Demos</h2></summary>
-
-### BODYFENCE
-
-[BODYFENCE GIF]
-
-### PLC Virtual Factory
-
-[PLC Virtual Factory GIF]
-
-### ArUco Autonomous Cart
-
-[ArUco Autonomous Cart GIF]
-
-### Computer Vision Lab
-
-[Computer Vision Lab GIF]
+<summary>부스트캠프 프로젝트 시연</summary>
 
 ### Re:View
 
@@ -75,23 +100,46 @@
 
 </details>
 
-<details>
-<summary><h2>📡 Gait, Sensors & RAG</h2></summary>
+</details>
+
+<details open>
+<summary><h2>⚙️ 개인 프로젝트 · PLC Virtual Factory</h2></summary>
 
 <p align="left">
-<a href="https://github.com/Hu-tech-hub/make_gait_data"><img width="400" alt="make_gait_data — 영상·IMU 보행 데이터 처리와 라벨링" src="./assets/profile/card-09.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/Stride_Length_Estimation_Model"><img width="400" alt="Stride Length Estimation — TCN 보폭 추론과 GUI·CLI 실행" src="./assets/profile/card-10.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/NAKSANG"><img width="400" alt="NAKSANG — IMU 기반 보행 이벤트 감지·시각화" src="./assets/profile/card-11.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/gait-analyzer-chronos-langchain"><img width="400" alt="Gait Analyzer · Chronos — Chronos 임베딩 기반 센서 분석 RAG" src="./assets/profile/card-12.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/Chatbot"><img width="400" alt="Chatbot — MongoDB 기반 텍스트 처리·챗봇" src="./assets/profile/card-13.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/rag-system"><img width="400" alt="RAG System — 문서 검색·질의응답 파이프라인" src="./assets/profile/card-14.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/WALKerHOLIC_Video"><img width="400" alt="WALKerHOLIC Video — 프로젝트 영상과 웹 재생 페이지" src="./assets/profile/card-15.svg" /></a>
+<a href="https://github.com/Hu-tech-hub/PLC_VirtualFactory"><img width="400" alt="PLC Virtual Factory — PLC와 Unity를 연결한 가상 검사설비" src="./assets/profile/card-02.svg" /></a>
 </p>
+
+PLC 시퀀스와 GOT 화면 및 Unity 가상설비를 연결한 개인 프로젝트입니다.
+
+<details>
+<summary>PLC Virtual Factory · 시연</summary>
+
+[PLC Virtual Factory GIF]
+
+</details>
+
+</details>
+
+<details open>
+<summary><h2>🔬 영상처리 연구실</h2></summary>
+
+<p align="left">
+<a href="https://github.com/Hu-tech-hub/Computer_Vision_Lab"><img width="400" alt="Computer Vision Lab — 영상처리·특징점·카메라 기하 학습 기록" src="./assets/profile/card-04.svg" /></a>
+</p>
+
+영상처리 기초·SIFT/ORB 특징점·카메라 캘리브레이션·수학 기초를 학습하고 정리한 랩미팅 자료입니다.
+
+<details>
+<summary>Computer Vision Lab · 시연</summary>
+
+[Computer Vision Lab GIF]
+
+</details>
 
 </details>
 
 <details>
-<summary><h2>🔬 Vision & Application Experiments</h2></summary>
+<summary><h2>🧪 그 외 프로젝트와 실험</h2></summary>
 
 <p align="left">
 <a href="https://github.com/Hu-tech-hub/detect_object_rc"><img width="400" alt="detect_object_rc — 카메라 보정과 영상처리 실험 코드" src="./assets/profile/card-16.svg" /></a>
@@ -102,7 +150,7 @@
 </details>
 
 <details>
-<summary><h2>📚 Study & Reference Repositories</h2></summary>
+<summary><h2>📚 학습·교재·연습 저장소</h2></summary>
 
 <p align="left">
 <a href="https://github.com/Hu-tech-hub/jump2python"><img width="400" alt="Jump to Python — 점프 투 파이썬 도서 예제 코드" src="./assets/profile/card-19.svg" /></a>
@@ -111,17 +159,15 @@
 <a href="https://github.com/Hu-tech-hub/aifoodnlife"><img width="400" alt="AI · ML Practice — 전처리·분류·군집화 등 머신러닝 예제" src="./assets/profile/card-22.svg" /></a>
 <a href="https://github.com/Hu-tech-hub/pymlrev2"><img width="400" alt="Python ML Guide — 파이썬 머신러닝 완벽 가이드 도서 예제" src="./assets/profile/card-23.svg" /></a>
 <a href="https://github.com/Hu-tech-hub/Fast_API"><img width="400" alt="FastAPI Practice — 라우팅·템플릿·데이터 모델 학습" src="./assets/profile/card-24.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/Chronos"><img width="400" alt="Chronos — Chronos 관련 참고 저장소" src="./assets/profile/card-25.svg" /></a>
 <a href="https://github.com/Hu-tech-hub/Pytorch"><img width="400" alt="Pytorch — 학습용 저장소" src="./assets/profile/card-26.svg" /></a>
 <a href="https://github.com/Hu-tech-hub/google_adk_practice"><img width="400" alt="Google ADK Practice — Google ADK 연습 프로젝트" src="./assets/profile/card-27.svg" /></a>
 <a href="https://github.com/Hu-tech-hub/github-practice"><img width="400" alt="GitHub Practice — GitHub 사용 연습 저장소" src="./assets/profile/card-28.svg" /></a>
-<a href="https://github.com/Hu-tech-hub/pro-cv-objectdetection-cv-02"><img width="400" alt="Object Detection · Personal Repo — 객체 탐지 프로젝트 개인 계정 저장소" src="./assets/profile/card-29.svg" /></a>
 </p>
 
 </details>
 
 <details>
-<summary><h2>🌐 Website & Profile</h2></summary>
+<summary><h2>🌐 포트폴리오 웹사이트·프로필</h2></summary>
 
 <p align="left">
 <a href="https://github.com/Hu-tech-hub/Hu-tech-hub.github.io"><img width="400" alt="Portfolio Website — Next.js 기반 포트폴리오 웹사이트" src="./assets/profile/card-30.svg" /></a>
