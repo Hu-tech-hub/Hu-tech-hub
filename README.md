@@ -25,7 +25,8 @@ Project grouping and descriptions are specific to Hu-tech-hub. -->
 ## 🦿 BODYFENCE
 **디지털 스마트 아카데미 부산 · 팀 프로젝트**
 
-<p align="center"><a href="https://github.com/Hu-tech-hub/WalkerHolic"><img width="800" alt="BODYFENCE 프로젝트 포스터" src="https://raw.githubusercontent.com/Hu-tech-hub/WalkerHolic/HEAD/images/001.png" /></a></p>
+<p align="center"><a href="https://github.com/Hu-tech-hub/WALKerHOLIC_Video/blob/main/ppt%20%EC%88%98%EC%A0%95%EC%98%81%EC%83%81.mp4"><img width="800" alt="BODYFENCE 보행 및 앱 분석 시연" src="./assets/profile/bodyfence-demo.gif" /></a></p>
+<p align="center"><sub>보행·분석 결과 하이라이트 · 클릭하면 원본 영상</sub></p>
 
 IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 
@@ -164,8 +165,6 @@ PLC 시퀀스와 GOT 화면 및 Unity 가상설비를 연결한 검사 자동화
 
 ## 🔬 Computer Vision Lab
 **영상처리 연구실 · 학습·랩미팅 기록**
-
-<table width="100%"><tr><td align="center"><br /><br /><strong>[영상처리 연구실 GIF]</strong><br /><br /><br /></td></tr></table>
 
 영상 필터링·SIFT/ORB 특징점·카메라 캘리브레이션·수학 기초 학습 자료
 
