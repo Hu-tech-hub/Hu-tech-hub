@@ -129,7 +129,8 @@ IMU 센서와 AI를 결합한 보행 분석·낙상 감지 플랫폼
 </td>
 <td width="50%" valign="top">
 <h3>Semantic Segmentation</h3>
-<p align="center"><br /><br /><strong>[Semantic Segmentation GIF]</strong><br /><br /><br /></p>
+<p align="center"><img width="300" alt="손 뼈 X-ray 예시 이미지" src="https://github.com/user-attachments/assets/38a94eec-738f-4642-8873-729c798d6884" /></p>
+<p align="center"><sub>손 X-ray 예시 · <a href="https://en.m.wikipedia.org/wiki/File:X-ray_of_normal_hand_by_dorsoplantar_projection.jpg">이미지 출처: Wikipedia</a></sub></p>
 <p>손 X-ray에서 29개 뼈 영역을 픽셀 단위로 분할하는 프로젝트</p>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
